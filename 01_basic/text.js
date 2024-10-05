@@ -1,1 +1,1 @@
-console.log("Ajay Pal")
+console.log("Ajay Pal");
